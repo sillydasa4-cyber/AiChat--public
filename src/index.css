@@ -1,0 +1,3 @@
+/* Global resets are handled by App.css */
+* { box-sizing: border-box; }
+body { margin: 0; }
